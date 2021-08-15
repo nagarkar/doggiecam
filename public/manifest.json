@@ -1,0 +1,23 @@
+{
+  "name": "Chinmay's Dog Cam",
+  "short_name": "CNDOGCAM",
+  "start_url": "index.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FFE9D2",
+  "orientation": "portrait-primary",
+  "theme_color": "#317EFB",    
+  "icons": [
+    {
+      "src": "/icon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
